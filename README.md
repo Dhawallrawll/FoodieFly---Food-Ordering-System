@@ -23,3 +23,8 @@ FoodieFly is a full-stack web application that allows users to browse restaurant
 ---
 
 ## 📂 Project Structure
+FoodieFly/
+├── frontend/
+├── backend/
+├── database/
+├── README.md
