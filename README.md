@@ -17,7 +17,7 @@ FoodieFly is a full-stack web application that allows users to browse restaurant
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
-- Backend: Python (Flask)
+- Backend: PhP
 - Database: MySQL
 
 ---
